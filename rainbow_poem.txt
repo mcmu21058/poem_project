@@ -7,5 +7,7 @@ Yellow
 Orange 
 Green
 Purple
+Brown
+
 
 These are the colors of the rainbow
