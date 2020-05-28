@@ -2,7 +2,6 @@ The Rainbow
 
 Blue
 Green
-Red
 Yellow
 Orange 
 Green
